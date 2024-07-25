@@ -1,0 +1,9 @@
+Package: com.admin233.hidedots
+Name: HideDots
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Admin_233
+Author: Admin_233
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader

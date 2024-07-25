@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>bundle</key>
+		<string>HideDotsPrefs</string>
+		<key>cell</key>
+		<string>PSSwitchCell</string>
+		<key>detail</key>
+		<string>adRootListController</string>
+		<key>icon</key>
+		<string>icon.png</string>
+		<key>isController</key>
+		<true/>
+		<key>label</key>
+		<string>HideDots</string>
+		<key>default</key>
+		<true/>
+		<key>defaults</key>
+		<string>com.admin233.hidedotsprefs</string>
+		<key>key</key>
+		<string>isEnabled</string>
+		<key>action</key>
+		<string>Respring</string>
+	</dict>
+</dict>
+</plist>
